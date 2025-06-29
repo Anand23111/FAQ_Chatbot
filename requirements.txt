@@ -1,4 +1,7 @@
+# Python version
+python==3.12.9
 
+# Libraries
 streamlit==1.18.0
 pandas==2.0.0
 scikit-learn==1.0.2
@@ -8,15 +11,5 @@ beautifulsoup4==4.10.0
 nltk==3.6.7
 faiss-cpu==1.7.1
 sentence-transformers==2.2.0
-httpx
-streamlit
-pandas
-scikit-learn
-googletrans==4.0.0-rc1
-nltk
-sentence-transformers
-faiss-cpu
-numpy
-
 
 
